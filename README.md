@@ -10,7 +10,7 @@ This repository contains a Python implementation of a **branch-and-bound** appro
 - **⚙️Greedy heuristic** – as a fallback or initial solution (sort items by benefit/weight).
 - **⏱️Time limit** – automatically stops branching after the user-defined time in each instance.
 
-##📄File Formats
+## 📄File Formats
 
 Each instance file must have:
 
