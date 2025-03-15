@@ -23,20 +23,31 @@ Each instance file must have:
 3. **Third line**: list of `I` item benefits.  
 4. **Subsequent lines**: the pairwise-benefits matrix, typically forming a triangular or row-based structure.  
 
+---
 
-##🛠️Usage
+## 🛠️Usage
 
 1. **Clone or Download** the repository:
-   ```bash
-   git clone https://github.com/RenatoMaynard/multi-knapsack-b&b.py.git
+```bash
+git clone https://github.com/RenatoMaynard/multi-knapsack-b&b.py.git
+```
 
-##🤝Contributing
+---
+
+## 🤝Contributing
 Feel free to open issues or create pull requests:
   1. Fork the repository.
   2. Create a new branch.
   3. Commit changes.
   4. Push to the branch.
   5. Create a Pull Request.
+
+---
+
+## ⚠️Disclaimer
+This project is for educational purposes only. Errors may exist. Please report issues or contribute improvements via pull requests.
+
+---
 
 ## License
 This project is open-sourced under the MIT license.
