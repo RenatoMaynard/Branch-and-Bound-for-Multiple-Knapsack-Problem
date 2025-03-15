@@ -29,7 +29,7 @@ Each instance file must have:
 
 1. **Clone or Download** the repository:
 ```bash
-git clone https://github.com/RenatoMaynard/multi-knapsack-b&b.py.git
+git clone https://github.com/RenatoMaynard/quadratic-multi-knapsack-b&b.py.git
 ```
 
 ---
